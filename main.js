@@ -42,7 +42,7 @@ function gotPoses(results)
 function draw() {
   image(video, 0, 0, 300, 300);
   image(clown_nose, noseX, noseY, 30, 30);
-  image(clown_mustache, mustacheX, MustacheY, 80, 35)
+  image(clown_mustache, mustacheX, mustacheY, 80, 35)
 }
 
 function take_snapshot(){    
